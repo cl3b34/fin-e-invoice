@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_fin-e-invoice_fin-e-invoice,fin-e-invoice.fin-e-invoice,model_fin-e-invoice_fin-e-invoice,,1,0,0,0
